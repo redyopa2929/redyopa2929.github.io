@@ -1,0 +1,11 @@
+title: "Tools Gratis Indonesia: Kalkulator & Konverter Open Source"
+description: "Kumpulan tools gratis berbahasa Indonesia: kalkulator jadian, hitung WR ML, tasbih online, terbilang, cek weton, konversi koordinat, dan lainnya. Open source."
+lang: id
+locale: id_ID
+url: "https://redyopa2929.github.io"
+baseurl: ""
+author: redyopa2929
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

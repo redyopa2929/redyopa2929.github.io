@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://redyopa2929.github.io/sitemap.xml
+Sitemap: https://redyopa2929.github.io/kalkulator-jadian/sitemap.xml
+Sitemap: https://redyopa2929.github.io/kalkulator-jasmani-polri/sitemap.xml
+Sitemap: https://redyopa2929.github.io/hitung-wr-ml/sitemap.xml
+Sitemap: https://redyopa2929.github.io/tasbih-online/sitemap.xml
+Sitemap: https://redyopa2929.github.io/kalkulator-selamatan/sitemap.xml
+Sitemap: https://redyopa2929.github.io/terbilang-online/sitemap.xml
+Sitemap: https://redyopa2929.github.io/kalkulator-saham/sitemap.xml
+Sitemap: https://redyopa2929.github.io/kalkulator-bangunan/sitemap.xml
+Sitemap: https://redyopa2929.github.io/konversi-koordinat/sitemap.xml
+Sitemap: https://redyopa2929.github.io/cek-weton/sitemap.xml
